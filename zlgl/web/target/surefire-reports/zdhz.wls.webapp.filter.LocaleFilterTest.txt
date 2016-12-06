@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zdhz.wls.webapp.filter.LocaleFilterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.51 sec - in zdhz.wls.webapp.filter.LocaleFilterTest

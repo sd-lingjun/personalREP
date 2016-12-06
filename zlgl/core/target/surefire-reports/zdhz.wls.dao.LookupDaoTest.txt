@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zdhz.wls.dao.LookupDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.091 sec - in zdhz.wls.dao.LookupDaoTest
